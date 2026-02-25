@@ -23,24 +23,7 @@ h1,h2,h3{
 
 
 
-/* Lock carousel height to prevent page jump */
-.fixed-carousel {
-  height: 420px;          /* adjust to taste */
-}
 
-.fixed-carousel .carousel-item {
-  height: 100%;
-}
-
-/* Make images and videos fit inside without stretching */
-.fixed-carousel img,
-.fixed-carousel video {
-  max-height: 100%;
-  max-width: 100%;
-  object-fit: contain;
-  margin: auto;
-  display: block;
-}
 
 
 
